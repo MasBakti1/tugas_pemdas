@@ -1,4 +1,5 @@
-print ("tugas 7")
+print("tugas 7")
+print("===========")
 
 data_panen = {
     'lokasi1': {
