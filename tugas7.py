@@ -1,5 +1,7 @@
 print("tugas 7")
 print("===========")
+print("Moch Bakti Komara Rusiana Putra")
+print("152023061")
 
 data_panen = {
     'lokasi1': {
